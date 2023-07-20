@@ -1,0 +1,15 @@
+/home/paulo/Documentos/ExerciciosCS/secao-03/csharp-026-csharp-projeto-trybe-games/src/TrybeGames/bin/Debug/net6.0/TrybeGames
+/home/paulo/Documentos/ExerciciosCS/secao-03/csharp-026-csharp-projeto-trybe-games/src/TrybeGames/bin/Debug/net6.0/TrybeGames.deps.json
+/home/paulo/Documentos/ExerciciosCS/secao-03/csharp-026-csharp-projeto-trybe-games/src/TrybeGames/bin/Debug/net6.0/TrybeGames.runtimeconfig.json
+/home/paulo/Documentos/ExerciciosCS/secao-03/csharp-026-csharp-projeto-trybe-games/src/TrybeGames/bin/Debug/net6.0/TrybeGames.dll
+/home/paulo/Documentos/ExerciciosCS/secao-03/csharp-026-csharp-projeto-trybe-games/src/TrybeGames/bin/Debug/net6.0/ref/TrybeGames.dll
+/home/paulo/Documentos/ExerciciosCS/secao-03/csharp-026-csharp-projeto-trybe-games/src/TrybeGames/bin/Debug/net6.0/TrybeGames.pdb
+/home/paulo/Documentos/ExerciciosCS/secao-03/csharp-026-csharp-projeto-trybe-games/src/TrybeGames/obj/Debug/net6.0/TrybeGames.csproj.AssemblyReference.cache
+/home/paulo/Documentos/ExerciciosCS/secao-03/csharp-026-csharp-projeto-trybe-games/src/TrybeGames/obj/Debug/net6.0/TrybeGames.GeneratedMSBuildEditorConfig.editorconfig
+/home/paulo/Documentos/ExerciciosCS/secao-03/csharp-026-csharp-projeto-trybe-games/src/TrybeGames/obj/Debug/net6.0/TrybeGames.AssemblyInfoInputs.cache
+/home/paulo/Documentos/ExerciciosCS/secao-03/csharp-026-csharp-projeto-trybe-games/src/TrybeGames/obj/Debug/net6.0/TrybeGames.AssemblyInfo.cs
+/home/paulo/Documentos/ExerciciosCS/secao-03/csharp-026-csharp-projeto-trybe-games/src/TrybeGames/obj/Debug/net6.0/TrybeGames.csproj.CoreCompileInputs.cache
+/home/paulo/Documentos/ExerciciosCS/secao-03/csharp-026-csharp-projeto-trybe-games/src/TrybeGames/obj/Debug/net6.0/TrybeGames.dll
+/home/paulo/Documentos/ExerciciosCS/secao-03/csharp-026-csharp-projeto-trybe-games/src/TrybeGames/obj/Debug/net6.0/ref/TrybeGames.dll
+/home/paulo/Documentos/ExerciciosCS/secao-03/csharp-026-csharp-projeto-trybe-games/src/TrybeGames/obj/Debug/net6.0/TrybeGames.pdb
+/home/paulo/Documentos/ExerciciosCS/secao-03/csharp-026-csharp-projeto-trybe-games/src/TrybeGames/obj/Debug/net6.0/TrybeGames.genruntimeconfig.cache
